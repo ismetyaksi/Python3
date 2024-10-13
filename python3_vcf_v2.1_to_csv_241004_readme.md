@@ -12,7 +12,7 @@ It is useful for organizing and cleaning mobile phone contacts lists.
 
 5. On the second pass temporary file is read and VCF related information is collected and inserted to a text file 
 
-###Following is **IDLE** output of the program
+### Following is **IDLE** output of the program
 
 1 >>> Null line after photo 1
 
