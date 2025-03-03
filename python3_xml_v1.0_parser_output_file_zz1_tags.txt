@@ -1,0 +1,28 @@
+﻿
+<?xml version="1.0"?>
+<MsInfo>
+<Metadata>
+<Version>8.0
+</Version>
+<CreationUTC>03/03/25 12:36:01
+</CreationUTC>
+</Metadata>
+<Category name="System Summary">
+<Data>
+<Item>
+<![CDATA[OS Name]]>
+</Item>
+<Value>
+<![CDATA[Microsoft Windows 10 Pro]]>
+</Value>
+</Data>
+<Data>
+<Item>
+<![CDATA[Version]]>
+</Item>
+<Value>
+<![CDATA[10.0.19045 Build 19045]]>
+</Value>
+</Data>
+:
+:
